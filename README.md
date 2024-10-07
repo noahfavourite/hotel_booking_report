@@ -1,5 +1,6 @@
 # hotel_booking_report
 https://app.powerbi.com/view?r=eyJrIjoiZDViMDA4ZDItN2FiOC00ZDczLTlmMjQtMjcxOWRmNDczMWVmIiwidCI6IjA1ZDIwYWFmLTJkODItNDA0NS05ZTljLWVkMmYyMjVhYWZkYyJ9
+![hotel booking report_page-0001](https://github.com/user-attachments/assets/f661bef8-d98e-49a7-8491-269164bfc7d9)
 
 ### SUMMARY
 ##### Is our hotel revenue growing by year?
